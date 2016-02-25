@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+
+    <EditText
+        android:id="@+id/etInputValue"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:hint="input value"
+        android:textAlignment="center"
+        android:maxLength="3"
+        android:inputType="number" />
+    <Button
+        android:id="@+id/btnOk"
+        android:layout_width="300dp"
+        android:layout_height="100dp"
+        android:text="Ok"
+        android:layout_below="@+id/etInputValue"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

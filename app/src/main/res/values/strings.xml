@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Homework_4</string>
+    <string name="ERROR_STRING">ERROR</string>
+    <string name="ERROR_MESSAGE">ЗАПОВНІТЬ ВСІ ПОЛЯ</string>
+    <string name="ERROR_DIVIDE_BY_ZERO">НЕ МОЖНА ДІЛИТИ НА 0</string>
+    <string name="ERROR_NO_OPERATOR">ВВЕДІТЬ ОДИН З ОПЕРАТОРІВ</string>
+</resources>
